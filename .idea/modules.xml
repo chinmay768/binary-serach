@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BinarySearch.iml" filepath="$PROJECT_DIR$/.idea/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/striver/striver.iml" filepath="$PROJECT_DIR$/striver/striver.iml" />
     </modules>
   </component>
 </project>
